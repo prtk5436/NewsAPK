@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Corona Breakings</string>
+
+    <string name="no_news_found">No News Found</string>
+
+    <string name="http_error_message">Problem making the HTTP request</string>
+
+    <string name="tv_title">dfvffk dfjkdfvjknvk jkvkklvdv</string>
+    <string name="tv_section">Games</string>
+    <string name="tv_date">Jun 24, 2018</string>
+
+    <string name="section">Section | </string>
+    <string name="todo">TODO</string>
+
+</resources>
